@@ -1,0 +1,6 @@
+{
+  "Locations" : {
+    "Google" :  ["google.com", "green", "9ms"],
+    "Facebook" :  ["facebook.com", "green", "9ms"],
+  }
+}
