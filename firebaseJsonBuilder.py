@@ -1,5 +1,5 @@
 fileName = input("What do you want to name this json file? ")
-parent = input("What do you want to name your base tree? ")
+parent = input("What do you want to name your parent tree? ")
 childs = [str(x) for x in input("What child(s) do you want to add for this parent? ").split()]
 
 def run():
