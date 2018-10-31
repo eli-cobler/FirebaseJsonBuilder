@@ -31,6 +31,7 @@ Answer the prompts
 ```
 What do you want to name this json file? locations
 ```
+.json is automatically added to your input. For example with my input my filename will be ```locations.json```.
 
 ```
 What do you want to name your parent tree? Locations
